@@ -39,6 +39,17 @@ I always like to Network with people who are smarter than me to learn new things
 
 <p align="left"> <a href="https://discord.com/users/AnuRag-bAnd#3150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100009444654647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Anurag-Band" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/theanuuurag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anurag-band-7a5255170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/anuragBand10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
 ### Badges
 
-<a href="https://github.com/Anurag-Band" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Band&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Anurag-Band/Instagram-Firebase-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-Band&repo=Instagram-Firebase-Clone&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/Anurag-Band/Shopping-Cart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-Band&repo=Shopping-Cart&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+<a href="https://github.com/Anurag-Band" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Band&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Anurag-Band"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Band&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
