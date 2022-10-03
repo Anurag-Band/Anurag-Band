@@ -8,9 +8,9 @@ I always like to Network with people who are smarter than me to learn new things
 
 * 🌍  I'm based in INDIA 🚩
 * 🖥️  See my portfolio at [anuragband.dev](http://github.com/Anurag-Band)
-* ✉️  You can contact me at [anuragband.dev@gmail.com](mailto:anuragband.dev@gmail.com)
-* 🚀  I'm currently working on [Instagram-Clone](http://github.com/Anurag-Band)
-* 🧠  I'm learning React JS
+* ✉️  You can contact me at [anuragband10@gmail.com](mailto:anuragband10@gmail.com)
+* 🚀  I'm currently working on [MERN Projects](http://github.com/Anurag-Band)
+* 🧠  I'm learning Latest Technologies
 * 🤝  I'm open to collaborating on Projects which brings value to the Community
 * ⚡  Building the Habit of Consistent Learning
 
